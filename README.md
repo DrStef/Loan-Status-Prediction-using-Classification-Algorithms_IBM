@@ -4,6 +4,10 @@ $\textcolor{#246EAA}{\textsf{This supervised classification project was carried 
 
 https://www.coursera.org/professional-certificates/ibm-data-science
 
+$\textcolor{#246EAA}{\textsf{The Jupyter Notebook is available here}}$ 
+
+https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/Stephane_Dedieu_ML0101EN-Proj-Loan-v3.ipynb
+
 $\textcolor{#246EAA}{\textsf{Loan Status Prediction using Classification Algorithms}}$:
    * KNN, 
    * Decision Tree 
