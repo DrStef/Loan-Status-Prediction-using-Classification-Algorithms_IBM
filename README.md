@@ -1,15 +1,18 @@
 # Loan-Status-Prediction-using-Classification-Algorithms
 
-This supervised classification project was carried out as part of the IBM Data Science Professional certificate.
+$\textcolor{#246EAA}{\textsf{This supervised classification project was carried out as part of the IBM Data Science Professional certificate.}}$
 
 https://www.coursera.org/professional-certificates/ibm-data-science
 
+$\textcolor{#246EAA}{\textsf{Loan Status Prediction using Classification Algorithms}}$:
+   * KNN, 
+   * Decision Tree 
+   * SVM, 
+   * Logistic Regression.
 
-$\textcolor{#246EAA}{Loan Status Prediction using Classification Algorithms: KNN, Decision Tree, SVM, Logistic Regression. Determination of the best classifier. No optimization of hyperparameters.}}$   
-$\textcolor{#246EAA}{The dataset is about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. It includes following fields:}}$
-
-$\textcolor{#246EAA}{\textsf{Linear regression for predicting home price based on.}}$
-
+$\textcolor{#246EAA}{\textsf{Determination of the best classifier. No optimization of hyperparameters.}}$  
+$\textcolor{#246EAA}{\textsf{The dataset is about past loans, it includes details of 346 customers whose loans are already}}$
+$\textcolor{#246EAA}{\textsf{paid off or defaulted. It includes following fields}}$:
 
 | Field |  Description  |
 | ---   |  ---          |	
