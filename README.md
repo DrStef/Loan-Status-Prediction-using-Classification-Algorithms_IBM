@@ -14,6 +14,7 @@ $\textcolor{#246EAA}{\textsf{Determination of the best classifier. No optimizati
 $\textcolor{#246EAA}{\textsf{The dataset is about past loans, it includes details of 346 customers whose loans are already}}$
 $\textcolor{#246EAA}{\textsf{paid off or defaulted. It includes following fields}}$:
 
+
 | Field |  Description  |
 | ---   |  ---          |	
 | Loan_status |	Whether a loan is paid off on in collection |
@@ -24,7 +25,6 @@ $\textcolor{#246EAA}{\textsf{paid off or defaulted. It includes following fields
 |Age	 | Age of applicant |
 |Education |	Education of applicant |
 |Gender	| The gender of applicant  |
-
 
 $\textcolor{#246EAA}{\textsf{The Jupyter Notebook is available here}}$: 
 
