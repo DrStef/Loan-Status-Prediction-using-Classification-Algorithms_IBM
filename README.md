@@ -26,9 +26,7 @@ $\textcolor{#246EAA}{\textsf{paid off or defaulted. It includes following fields
 |Education |	Education of applicant |
 |Gender	| The gender of applicant  |
 
-$\textcolor{#246EAA}{\textsf{The Jupyter Notebook is available here}}$: 
-
-https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/Stephane_Dedieu_ML0101EN-Proj-Loan-v3.ipynb
+[The Jupyter Notebook is available here](https://github.com/DrStef/Loan-Status-Prediction-using-Classification-Algorithms_IBM/blob/main/Stephane_Dedieu_ML0101EN-Proj-Loan-v3.ipynb)
 
 
 Stephane D. Oct-2022
